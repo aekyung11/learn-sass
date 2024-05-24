@@ -1,0 +1,8 @@
+$color: blue;
+
+@mixin size($value) {
+  width: $value;
+  inline-size: $value;
+  height: $value;
+  block-size: $value;
+}

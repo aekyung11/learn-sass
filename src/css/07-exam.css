@@ -1,0 +1,7 @@
+.box {
+  padding: 16px;
+  width: 100px;
+  inline-size: 100px;
+  height: 100px;
+  block-size: 100px;
+}
